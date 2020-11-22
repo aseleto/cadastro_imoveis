@@ -1,0 +1,15 @@
+export const amenitiesBuilding = [
+    { name: "Academia", value: "gym" },
+    { name: "Elevador", value: "elevator" },
+    { name: "Jardim", value: "garden" },
+    { name: "Churrasqueira", value: "barbecueGrill" },
+    { name: "Lavanderia", value: "laundry" },
+    { name: "Lavanderia Grátis", value: "freeLaundry" },
+    { name: "Piscina", value: "pool" },
+    { name: "Playground", value: "playground" },
+    { name: "Portaria", value: "doorPerson" },
+    { name: "Quadra de esportes", value: "sportsCourt" },
+    { name: "Salão de festas", value: "partyRoom" },
+    { name: "Sauna", value: "steamRoom" },
+    { name: "Segurança", value: "security" },
+]
